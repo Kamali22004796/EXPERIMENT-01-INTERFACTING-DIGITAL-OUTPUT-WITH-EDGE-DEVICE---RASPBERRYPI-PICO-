@@ -82,14 +82,11 @@ while True:
 
 ### OUPUT  
 
+![image](https://github.com/user-attachments/assets/2c0b2567-58c0-4e8f-99bc-b67cb4027089)
 
-# FIGURE -02 ADD TITILE HERE 
+![image](https://github.com/user-attachments/assets/4b8556d2-a207-4927-b349-d682c76f56ca)
 
-#  FIGURE -03 ADD TITILE HERE 
+![image](https://github.com/user-attachments/assets/5550917a-90c0-4b2e-a5f0-34fb058adfce)
 
-# FIGURE -04 ADD TITLE HERE 
-
-
- 
 ## RESULTS
 The LED connected to the Raspberry Pi Pico successfully turns ON and OFF at  user defined time  confirming the proper interfacing of a digital output.
